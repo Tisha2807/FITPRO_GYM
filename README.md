@@ -12,7 +12,6 @@ Welcome to my first SQL project, where I analyze real-time gym data from **FitPr
 - [SQL Queries & Analysis](#sql-queries--analysis)
 - [Getting Started](#getting-started)
 - [Questions & Feedback](#questions--feedback)
-- [Contact Me](#contact-me)
 
 ---
 
@@ -74,4 +73,28 @@ Advanced queries:
 13. Members with more than 2 visits, sorted by total visits, displaying the top 5.
 14. Members who joined in 2023, grouped by membership type (where each group has >1 member).
 15. Average age of active members, grouped by membership type, limited to the top 3 results.
-# FitPro_Gym
+---
+
+## SQL Queries & Analysis
+
+The `analysis.sql` file contains all SQL queries developed for this project. Each query corresponds to a business problem and demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering.
+
+## Getting Started
+
+### Prerequisites
+- PostgreSQL (or any SQL-compatible database)
+- Basic understanding of SQL
+
+### Steps
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/fitpro-gym-sql-project.git
+   ```
+2. **Set Up the Database**:
+   - Run the `schema.sql` script to set up tables and insert sample data.
+
+3. **Run Queries**:
+   - Execute each query in `analysis.sql` to explore and analyze the data.
+
+---
+
