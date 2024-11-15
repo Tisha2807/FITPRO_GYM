@@ -1,3 +1,5 @@
+---
+
 # FitPro Gym SQL Project
 
 ![Project Image Placeholder](https://github.com/najirh/firpro-p1/blob/main/Fitpro.png) 
@@ -12,6 +14,7 @@ Welcome to my first SQL project, where I analyze real-time gym data from **FitPr
 - [SQL Queries & Analysis](#sql-queries--analysis)
 - [Getting Started](#getting-started)
 - [Questions & Feedback](#questions--feedback)
+- [Contact Me](#contact-me)
 
 ---
 
@@ -73,6 +76,7 @@ Advanced queries:
 13. Members with more than 2 visits, sorted by total visits, displaying the top 5.
 14. Members who joined in 2023, grouped by membership type (where each group has >1 member).
 15. Average age of active members, grouped by membership type, limited to the top 3 results.
+
 ---
 
 ## SQL Queries & Analysis
@@ -98,3 +102,16 @@ The `analysis.sql` file contains all SQL queries developed for this project. Eac
 
 ---
 
+## Questions & Feedback
+
+If you have any questions or feedback, feel free to create an issue or reach out!
+
+---
+
+## Contact Me
+
+📄 **[Resume](#)**  
+📧 **[Email](mailto:your.email@example.com)**  
+📞 **Phone**: +123-456-7890  
+
+--
