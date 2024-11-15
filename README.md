@@ -13,9 +13,7 @@ Welcome to my first SQL project, where I analyze real-time gym data from **FitPr
 - [Business Problems](#business-problems)
 - [SQL Queries & Analysis](#sql-queries--analysis)
 - [Getting Started](#getting-started)
-- [Questions & Feedback](#questions--feedback)
-- [Contact Me](#contact-me)
-
+  
 ---
 
 ## Introduction
@@ -102,16 +100,3 @@ The `analysis.sql` file contains all SQL queries developed for this project. Eac
 
 ---
 
-## Questions & Feedback
-
-If you have any questions or feedback, feel free to create an issue or reach out!
-
----
-
-## Contact Me
-
-📄 **[Resume](#)**  
-📧 **[Email](mailto:your.email@example.com)**  
-📞 **Phone**: +123-456-7890  
-
---
